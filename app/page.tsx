@@ -6,11 +6,11 @@ import Skills from "@/components/Skills";
 
 const HomePage = () => {
   return (
-    <main>
+    <main className="mt-24">
       <Hero />
-      <About />
-      <Projects />
+      <About />  
       <Skills />
+      <Projects />
       <Contact />
     </main>
   );
