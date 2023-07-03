@@ -18,7 +18,7 @@ const Footer = () => {
           transition={{ ease: "easeInOut", duration: 1, delay: 0.5 }}
           className="text-5xl md:text-6xl lg:text-7xl xl:text-8xl 2xl:text-9xl font-semibold text-center flex gap-5 justify-center items-center"
         >
-          <span>Thank You</span>
+          <span>Thank You For Visiting</span>
         </motion.h2>
       </div>
 
