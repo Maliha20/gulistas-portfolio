@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { BsArrowDownRight } from "react-icons/bs";
+
 
 interface SectionTitleProps {
   title: string;

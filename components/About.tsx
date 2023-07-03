@@ -1,7 +1,6 @@
 "use client";
 import Image from "next/image";
 import SectionTitle from "./SectionTitle";
-import ButtonAsLink from "./ButtonAsLink";
 import { motion } from "framer-motion";
 
 const About = () => {
