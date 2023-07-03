@@ -50,7 +50,7 @@ const Contact = () => {
       <SectionTitle title="Contact Me" />
 
       <div className="mt-20 grid lg:grid-cols-2 gap-20">
-        <div className="left flex flex-col justify-center items-center gap-10">
+        <div className="left flex flex-col gap-10">
           <div className="overflow-hidden">
             <motion.h4
               initial={{ y: "100%" }}
