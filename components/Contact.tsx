@@ -134,13 +134,7 @@ const Contact = () => {
           className="right flex flex-col gap-10 text-2xl w-full relative"
         >
           
-          <div className="overflow-hidden">
-          <motion.div
-           initial={{ y: "-100%" }}
-           whileInView={{ y: 0 }}
-           transition={{ ease: "easeInOut", duration: 1, delay: 0.2 }}
-          className="overflow-hidden xl:block absolute left-30 top-24 w-full h-[20rem] z-[-1] linear blur-3xl"></motion.div>
-          </div>
+
           
           <div className="flex gap-10 flex-wrap md:flex-nowrap w-full">
             <div className="overflow-hidden w-full">
