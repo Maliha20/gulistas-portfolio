@@ -146,7 +146,7 @@ const Navbar = () => {
           </div>
         </div>
       </motion.header>
-      {/* FIXED NAV MODAL */}
+     
       <div
         onClick={handleClick}
         className={clsx(

@@ -19,7 +19,7 @@ export const data = [
     image:
       "https://res.cloudinary.com/da6uz7qsv/image/upload/v1688358563/354157248_2274617936079654_5402016863556422685_n_tncn3z.png",
     description:
-      "Welcome to Gaming Geeks, your ultimate destination for all things board games. Our online shop offers a vast collection of the latest and greatest board games, catering to geeks of all levels. From strategy games to party favorites, we have something for everyone. Immerse yourself in the world of tabletop gaming and let Gaming Geeks be your go-to online board game shop.",
+      "Introducing Gaming Geeks, a [brief description of the toy's main features]. This [toy category] is designed to [purpose or intended use]. With its [unique attributes or selling points], [Toy Name] offers endless hours of fun and entertainment for all ages. Whether you're a collector or simply looking for a new addition to your toy collection, [Toy Name] is sure to bring joy and excitement to your playtime. Discover the magic of [Toy Name] today and experience the wonders it has to offer.",
     tech: "React.js | Node.js | Tailwind CSS | Firebase Auth | MongoDB",
     liveLink: "https://toy-store-6f8a9.web.app/",
     frontend: "https://github.com/Maliha20/Gaming-Geeks-toy-store",

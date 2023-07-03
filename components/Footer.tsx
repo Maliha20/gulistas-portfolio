@@ -22,7 +22,7 @@ const Footer = () => {
         </motion.h2>
       </div>
 
-      <div className="mt-10 grid xl:grid-cols-3 gap-10 justify-between items-start px-20 text-lg md:text-xl">
+      <div className="mt-10 flex justify-center items-center px-20 text-lg md:text-xl">
         <div className="overflow-hidden">
           <motion.p
             initial={{ y: "100%" }}
