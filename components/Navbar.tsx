@@ -7,7 +7,6 @@ import { FaStarOfLife } from "react-icons/fa";
 import { useCallback, useState } from "react";
 import clsx from "clsx";
 
-
 const Navbar = () => {
   const [isMobileNavOpen, setIsMobileNavOpen] = useState<boolean>(false);
 
@@ -82,7 +81,7 @@ const Navbar = () => {
               transition={{ ease: "easeInOut", duration: 1.5, delay: 0.9 }}
             >
               <ButtonAsLink
-                href="{pdf}"
+                href="https://drive.google.com/uc?export=download&id=1PUb4ivf_r5zGbz9miwFrPo3hIheR6Niv"
                 placeholder="Download Resume"
                 target="_blank"
               />
@@ -147,7 +146,7 @@ const Navbar = () => {
           </div>
         </div>
       </motion.header>
-     
+
       <div
         onClick={handleClick}
         className={clsx(
