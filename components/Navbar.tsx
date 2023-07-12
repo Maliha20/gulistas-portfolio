@@ -7,6 +7,7 @@ import { FaStarOfLife } from "react-icons/fa";
 import { useCallback, useState } from "react";
 import clsx from "clsx";
 
+
 const Navbar = () => {
   const [isMobileNavOpen, setIsMobileNavOpen] = useState<boolean>(false);
 
@@ -81,7 +82,7 @@ const Navbar = () => {
               transition={{ ease: "easeInOut", duration: 1.5, delay: 0.9 }}
             >
               <ButtonAsLink
-                href="https://doc-08-8c-docs.googleusercontent.com/docs/securesc/0clmlr9vff4b7dh93ih4njjp281qqke7/efkercici8gdbtruudlc5fdcq66095lu/1688406750000/11124900691078271251/11124900691078271251/1PUb4ivf_r5zGbz9miwFrPo3hIheR6Niv?e=download&ax=AGtFMPVLOjM1iX18vgh0UNRRB5WS4s0f05REwvDEz-anq8Xi5IPxSWRm95XjiXCqhfK_5wVDPf_GVPYU4LRdqvIPupIF90EY_KxJG8etcxJSMIrfcb480dSFZ-HFmO-zoMXMjVT9gf77GdGcpavarKSI_IwS8JB_K_ZquPSj-b2i3_ty6i9JdMPp45H62N20HegRB5QXZMrmA3fLhBrX46rbKN5rUt2MVJIgJ0SdQCF9ubOaRP30yEnk3cHz9AQ96hthadu1moZ4sgv2Q-iUriTSSN1k-WM75FQWYav_EeszmOXDEQ7hNUcNkF5F0E1IGQRfOLaUnSxgfr3YEX34I_CYpJPFbHru5c4Nh2hXiWSPVLGCo_qNZ_F2pQ5n39cXiFTrN3ImEzw732Bqyt7qDcwEOGYkQOaWbPkEwL3Hu7qWisleVUTkj4oHNCt14bEKhyBxVv7oL6v5crLDMAH9AfhfoB7tMza_kRSIIbpeOGoDedX9bGee-0ftE-Jyg3Cr6Uc-4WGnlr1F8Fhmtc_IFhSbULsj8_SygbtFz0wwXVooCdMx-U9MRt1136g1-yiD3appxNETQXapiJS3DDcs6cP5khlgc1z050XlES5HSDz9Q9kKI7i_4xQqXisweG5rt9nf_QX4NoQuzC6tlwwqEEVqsSa_YYB6bFRtpca5IbsqD0oKACUhxLTrrUfuqQan_L-CBrEIk1Buvy2dBj6JaOBP8SoyWOmqbXI-7Sp1Q-UzvJazEcO4b0wH7kAcZy-ljpjkz-k5r_BRDnrF7FASUn2usG61Ip8_WSsalj6TLCdTccJ70yliWqlN_eJmuH1kObHB_rRGxS7S3LGIjdQgdRQrbyXCSD-eohoTiXJYMdSQUMa_0M-kLxzwRTMm4BOuZrtwUA&uuid=e2418766-19f2-4695-a24e-e1c6a79b472e&authuser=0&nonce=ss1vdsug0ha5k&user=11124900691078271251&hash=al2401j7g2p38kteoq2r599quud6kafb"
+                href="{pdf}"
                 placeholder="Download Resume"
                 target="_blank"
               />
@@ -239,7 +240,7 @@ const Navbar = () => {
                 className="list-none"
               >
                 <Link
-                  href="https://drive.google.com/uc?export=download&id=16rCIrOJxWv-FYk1ydZwsU84d6fWoJ3bw"
+                  href="https://drive.google.com/uc?export=download&id=1PUb4ivf_r5zGbz9miwFrPo3hIheR6Niv"
                   target="_blank"
                   className="hover:text-accent duration-500"
                 >

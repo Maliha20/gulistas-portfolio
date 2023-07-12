@@ -73,18 +73,6 @@ export const data = [
     delay: 1.2,
   },
   {
-    id: 7,
-    text: "TypeScript",
-    icon: BiLogoTypescript,
-    delay: 0.6,
-  },
-  {
-    id: 10,
-    text: "Next",
-    icon: SiNextdotjs,
-    delay: 0.9,
-  },
-  {
     id: 14,
     text: "Framer Motion",
     icon: SiFramer,
@@ -95,11 +83,5 @@ export const data = [
     text: "Firebase Auth",
     icon: BiLogoFirebase,
     delay: 1.8,
-  },
-  {
-    id: 16,
-    text: "Mongoose",
-    icon: SiMongoose,
-    delay: 1.9,
   }
 ];
