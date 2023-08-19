@@ -29,14 +29,14 @@ const About = () => {
 
             <div>
               <div className="absolute z-[1] top-0 left-0 right-0 bottom-0  w-full h-full group-hover:opacity-0 duration-[4000ms]"></div>
-              <Image
+              {/* <Image
                 width={500}
                 height={500}
                 priority
                 className="absolute left-16 top-12 z-[1] w-full h-full object-cover group-hover:scale-125 duration-[4000ms]"
                 src="https://res.cloudinary.com/da6uz7qsv/image/upload/v1688307132/mali_mtdfbl.jpg"
                 alt=""
-              />
+              /> */}
             </div>
           </motion.div>
         </motion.div>
