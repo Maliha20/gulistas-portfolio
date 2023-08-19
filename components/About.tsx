@@ -24,7 +24,7 @@ const About = () => {
           >
             {/* OVERLAY */}
             {/* BACKGROUND OVERLAY */}
-            <div className="absolute right-25 top-24 w-[40rem] h-[20rem] z-[-1] rounded-full blur-3xl"></div>
+            <div className="absolute right-25 top-24 w-[40rem] h-[20rem] z-[-1] "></div>
             <div className="absolute z-[1] top-0 left-0 right-0 bottom-0   border-8 border-accent  w-[80%] h-[90%] group-hover:opacity-0 duration-[4000ms]"></div>
 
             <div>
